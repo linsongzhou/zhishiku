@@ -1,6 +1,13 @@
 # Obsidian 工作区状态（各设备独立）
 .obsidian/workspace*.json
 .obsidian/cache
+.obsidian/graph.json
+
+# 临时解压与预览文件
+work/
+
+# GitHub 不支持超过 100 MB 的单个文件；课程已展开后同步
+raw/articles/桩基动测/PPT.zip
 
 # 系统文件
 Thumbs.db
